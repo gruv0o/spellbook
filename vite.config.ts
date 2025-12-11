@@ -16,5 +16,5 @@ export default defineConfig({
 
     // Tailwind v4 (plugin Vite dédié)
     tailwindcss(),
-  ],
+  ]
 })
